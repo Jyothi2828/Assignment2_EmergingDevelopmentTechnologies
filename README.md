@@ -5,7 +5,7 @@ This Repo contains 2 apps
 
 **1.[Self Driving Car using Neural Network](https://self-driving-car-js-no-libraries-jk.vercel.app/)**
 
-2.**[Real Estate Price Prediction App](https://jyothi2828.github.io/real-estate-price-prediction-brainjs/)**
+2.**[Real Estate Price Prediction App](https://jyothi2828.github.io/RealEstatePredictor/)**
 
 ---
 # 🚗 Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning 
@@ -45,7 +45,7 @@ Check out his channel:[Radu Mariescu-Istodor](https://www.youtube.com/channel/UC
 ---
 # 🏠💸% Real Estate Price Prediction App
 ---
-**[Live Demo](https://jyothi2828.github.io/real-estate-price-prediction-brainjs/)**
+**[Live Demo](https://jyothi2828.github.io/RealEstatePredictor/)**
 ---
 ## Project Overview
 This innovative real estate price prediction app leverages React.js for the frontend and Brain.js for implementing a neural network model to predict property prices. Developed by Jyothi Prasanna Kambam, the app analyzes features like area, number of bedrooms, and location to provide accurate price estimates.
